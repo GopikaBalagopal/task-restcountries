@@ -26,7 +26,7 @@
                  <h6>Capital: ${capital}</h6>
                  <h6>Region: ${region}</h6>
                  <h6>Country Code: ${countrycode}</h6>
-                 <center><a href="https://api.openweathermap.org/data/3.0/onecall?lat=${lattitude}&lon=${longitude}&exclude={part}&appid={fbc46de90dc72232a5f5e4b3062c4710}" class="btn btn-light" target="_blank">Check for Weather</a> </center>
+                 <center><a href="https://api.openweathermap.org/data/2.5/weather?lat=${lattitude}&lon=${longitude}&appid={596b78e7e5a97f300caf7e95cf0e1b4f}" class="btn btn-light" target="_blank">Check for Weather</a> </center>
                  </div>
                </div>
                   </div>`
