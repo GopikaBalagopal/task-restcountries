@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    content: center;
+    }
+  div{
+      background-color: rgb(242, 238, 238);
+    }
+  .card-body{
+    background-color:  rgb(150, 144, 144);
+             }
+  .card-header  {
+  text-align: center;
+  background-color: rgb(16, 18, 19);
+                }
+  h6{
+      color: white;
+      text-align: center;
+      background-color: rgb(150, 144, 144);
+    }
+ 
+  center{
+      padding: 10px;
+        }
+
+    .card-img-top{
+        padding: 10px;
+        background-color:  rgb(150, 144, 144);
+    }
+    .btn{
+        color: white;
+        background-color:  rgb(150, 144, 144);  
+    }
+    
